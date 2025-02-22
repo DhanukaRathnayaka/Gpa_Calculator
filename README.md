@@ -1,16 +1,18 @@
-# gpacal
+Here's a creative `README.md` for your **GPA Calculator** Flutter app:  
 
-A new Flutter project.
+---
 
-## Getting Started
+## 🎓 **GPA Calculator App** 📱  
+A sleek, intuitive Flutter-powered mobile app designed to help students calculate their GPA effortlessly. Add courses, assign grades, and get your GPA instantly—with a beautiful UI and dynamic features that persist your data even after refreshing!  
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+### 🚀 **Features**  
+ Add unlimited courses with credits and grades  
+ Dynamic GPA calculation with real-time updates  
+ One-tap subject removal (with a satisfying bin icon!)  
+ Persistent data—your added subjects stay safe after refresh  
+ Smooth navigation with a bottom navigation bar  
+ Elegant UI with gradient backgrounds and responsive design  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
