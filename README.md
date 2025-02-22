@@ -1,4 +1,3 @@
-Here's a creative `README.md` for your **GPA Calculator** Flutter app:  
 
 ---
 
